@@ -34,14 +34,14 @@ FlightTicketBooks
 ```
 
 ## Features
-Launch Chrome Browser
-Close Popup
-Select Round Trip
-Enter Source City
-Enter Destination City
-Select Departure Date
-Search Flight Tickets
----
+▪️Launch Chrome Browser
+▪️Close Popup
+▪️Select Round Trip
+▪️Enter Source City
+▪️Enter Destination City
+▪️Select Departure Date
+▪️Search Flight Tickets
+
 
 # 🧩 Key Components
 🔹 Page Object Model (POM)
@@ -58,5 +58,5 @@ Enables parallel execution and reporting
 
 # 👨‍💻 Author
 
-Junaid Rana
-junaid1282005@gmail.com
+▪️Junaid Rana
+▪️junaid1282005@gmail.com
