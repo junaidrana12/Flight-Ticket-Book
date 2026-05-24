@@ -34,29 +34,29 @@ FlightTicketBooks
 ```
 
 ## Features
-▪️Launch Chrome Browser
-▪️Close Popup
-▪️Select Round Trip
-▪️Enter Source City
-▪️Enter Destination City
-▪️Select Departure Date
-▪️Search Flight Tickets
+- Launch Chrome Browser
+- Close Popup
+- Select Round Trip
+- Enter Source City
+- Enter Destination City
+- Select Departure Date
+- Search Flight Tickets
 
 
 # 🧩 Key Components
-🔹 Page Object Model (POM)
-Improves code readability and maintainability
-Separates test logic from UI elements
-🔹 TestNG
-Supports annotations like @Test, @BeforeMethod
-Enables parallel execution and reporting
+- 🔹 Page Object Model (POM)
+- Improves code readability and maintainability
+- Separates test logic from UI elements
+- 🔹 TestNG
+- Supports annotations like @Test, @BeforeMethod
+- Enables parallel execution and reporting
 
 # 📌 Future Scope
-▪️Add mobile testing (Appium)
-▪️Integrate cloud testing (BrowserStack)
-▪️Implement BDD using Cucumber
+- Add mobile testing (Appium)
+- Integrate cloud testing (BrowserStack)
+  - Implement BDD using Cucumber
 
 # 👨‍💻 Author
 
-▪️Junaid Rana
-▪️junaid1282005@gmail.com
+- Junaid Rana
+- junaid1282005@gmail.com
