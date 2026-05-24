@@ -15,7 +15,7 @@ This project automates flight ticket search functionality on MakeMyTrip.
 
  ## Project Structure
 
-
+```text
 FlightTicketBooks
 │
 ├── src
