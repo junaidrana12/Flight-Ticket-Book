@@ -30,7 +30,8 @@ FlightTicketBooks
 │                 └── TestCases.java
 │
 ├── pom.xml
-└── README.md 
+└── README.md
+```
 
 ## Features
 Launch Chrome Browser
