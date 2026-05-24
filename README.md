@@ -51,10 +51,11 @@ Supports annotations like @Test, @BeforeMethod
 Enables parallel execution and reporting
 
 # 📌 Future Scope
-Add mobile testing (Appium)
-Integrate cloud testing (BrowserStack)
-Implement BDD using Cucumber
+▪️Add mobile testing (Appium)
+▪️Integrate cloud testing (BrowserStack)
+▪️Implement BDD using Cucumber
 
 # 👨‍💻 Author
 
 Junaid Rana
+junaid1282005@gmail.com
