@@ -41,6 +41,7 @@ Enter Source City
 Enter Destination City
 Select Departure Date
 Search Flight Tickets
+---
 
 # 🧩 Key Components
 🔹 Page Object Model (POM)
